@@ -1,5 +1,3 @@
-# ankita-singh
-
 
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Full Stack Web-Developerrontend developer from India</h3>
